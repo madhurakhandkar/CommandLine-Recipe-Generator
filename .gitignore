@@ -1,0 +1,7 @@
+.env
+venv/
+__pycache__/
+*.pyc
+*.pyo
+favourites.json
+.DS_Store
